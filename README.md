@@ -66,30 +66,6 @@
             <a href="#">Kontakt</a>
         </nav>
     </header>
-    
-    <section class="product-container">
-        <h1>Ledy Galaxy</h1>
-        <img src="image1.png" alt="Ledy Galaxy">
-        <img src="image2.png" alt="Ledy Galaxy w różnych kolorach">
-        <img src="image3.png" alt="Efekty świetlne">
-        <img src="image4.png" alt="Ledy Galaxy w pokoju">
-        <p>
-            Odkryj magiczny klimat z projektorem Ledy Galaxy! Twórz niepowtarzalną atmosferę w swoim pokoju dzięki 
-            efektom świetlnym, które imitują galaktykę. Idealny na prezent lub jako sposób na relaks!
-        </p>
-        <ul>
-            <li>Różne tryby kolorów i intensywności światła</li>
-            <li>Zdalne sterowanie pilotem</li>
-            <li>Łatwe podłączenie przez USB</li>
-            <li>Świetna dekoracja do sypialni, salonu czy pokoju dziecięcego</li>
-        </ul>
-        <a href="#" style="display:inline-block; background:#007BFF; color:#fff; padding:10px 20px; border-radius:5px; text-decoration:none;">Kup Teraz</a>
-    </section>
-    
-    <footer>
-        <p>&copy; 2025 PrimeShop94.</p>
-        <p>Kontakt: <a href="mailto:primeshop944@gmail.com" style="color:#fff;">primeshop944@gmail.com</a></p>
-    </footer>
+  
 </body>
 </html>
-
